@@ -1,6 +1,6 @@
 
 
-# [Shortify](https://github.com/0xfr0ntier/shortify-react/blob/main/LICENSE) &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/0xfr0ntier/shortify-react/blob/main/LICENSE)
+# [Shortify React](https://github.com/0xfr0ntier/shortify-react/blob/main/LICENSE) &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/0xfr0ntier/shortify-react/blob/main/LICENSE)
 
 This repo contains the frontend of Shortify, a link shortener project. Built using [ReactJS](https://github.com/facebook/react), and [React Router](https://reactrouter.com/).
 
